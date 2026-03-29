@@ -57,3 +57,39 @@
   font-size: 1.5em;
   font-weight: 500;
 }
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: rgba(158, 155, 155, 0.621);
+  border: none;
+  position: absolute;
+}
+.form-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  width: 60%;
+  border-radius: 25px;
+  background-color: #ffff;
+  border: 1px solid black;
+}
+.btn {
+  margin: 20px;
+}
+h1,
+input {
+  margin-bottom: 10px;
+}
+.btn button {
+  font-size: 0.8em;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid black;
+  background-color: rgb(73, 25, 25);
+  color: white;
+}
