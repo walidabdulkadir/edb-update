@@ -40,7 +40,7 @@
 .employee-list {
   width: 40%;
   height: 350px;
-  border: 1px solid black;
+  border: 3px solid black;
   margin: 10px 0 0 25px;
   padding: 25px;
   overflow: auto;
@@ -48,8 +48,8 @@
 .employee-info {
   width: 60%;
   height: 350px;
-  border: 1px solid black;
-  margin: 9px 33px 0px 10px;
+  border: 3px solid black;
+  margin: 10px 33px 0px 20px;
   padding: 25px;
 }
 .list-header,
@@ -58,10 +58,11 @@
   font-weight: 500;
 }
 .form-container {
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   width: 100%;
+  height: 100%;
   background-color: rgba(158, 155, 155, 0.621);
   border: none;
   position: absolute;
@@ -71,8 +72,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
-  width: 60%;
+  margin-top: 20px;
+  width: 30%;
   border-radius: 25px;
   background-color: #ffff;
   border: 1px solid black;
@@ -92,4 +93,8 @@ input {
   border: 1px solid black;
   background-color: rgb(73, 25, 25);
   color: white;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(122, 58, 58);
 }
