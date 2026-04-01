@@ -1,11 +1,11 @@
 [
   {
-    "first name": "walid",
-    "last name": "abdulkadir",
+    "first name": "Walid",
+    "last name": "Abdulkadir",
     "address": "addis ababa",
     "email": "walid@example.com",
     "phone": "1234567890",
     "DOB": "1990-01-01",
-    "image": "https://example.com/images"
+    "image": ""
   }
 ]
