@@ -11,14 +11,15 @@ form.addEventListener("submit", function (e) {
 
   const firstName = document.getElementById("firstName").value;
   const lastName = document.getElementById("lastName").value;
-
+  const image = document.getElementById("image").value;
   const employeeList = document.getElementById("employeeList");
-
   const li = document.createElement("li");
 
   // employee name
   const nameText = document.createElement("span");
-  nameText.textContent = firstName + " " + lastName;
+  nameText.textContent = image + firstName + " " + lastName;
+
+  nameText.classList.add("nameText");
 
   // delete button
   const deleteBtn = document.createElement("button");
