@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Employee Database Management
 
 Employee Database Management is a clean, browser-based employee directory for viewing, adding, and removing employee records. It uses plain HTML, CSS, and JavaScript, making it easy to run, understand, and extend without any build tools or framework setup.
@@ -86,21 +85,21 @@ If you already have a local server available, serve the project root and open `i
 
 ## License
 
-No license has been specified for this project yet. Add one if you plan to share or distribute the application.
-=======
+# No license has been specified for this project yet. Add one if you plan to share or distribute the application.
+
 # Employee Directory Dashboard
 
 An interactive Employee Directory Dashboard built using HTML, CSS, and JavaScript. The application allows users to browse employee records, view detailed employee information, and navigate through employee profiles using a clean and responsive interface.
 
 ## 🚀 Live Features
 
-* Display employee records from a JSON data source
-* View detailed employee information
-* Employee profile images
-* Dynamic rendering using JavaScript
-* Responsive user interface
-* Organized employee directory layout
-* Fast client-side data handling
+- Display employee records from a JSON data source
+- View detailed employee information
+- Employee profile images
+- Dynamic rendering using JavaScript
+- Responsive user interface
+- Organized employee directory layout
+- Fast client-side data handling
 
 ## 📸 Preview
 
@@ -115,10 +114,10 @@ screenshots/
 
 ## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* JSON
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- JSON
 
 ## 📂 Project Structure
 
@@ -169,23 +168,23 @@ Example employee object:
 
 This project demonstrates:
 
-* DOM Manipulation
-* JSON Data Handling
-* Dynamic UI Rendering
-* Responsive Web Design
-* JavaScript Event Handling
-* Frontend Application Architecture
+- DOM Manipulation
+- JSON Data Handling
+- Dynamic UI Rendering
+- Responsive Web Design
+- JavaScript Event Handling
+- Frontend Application Architecture
 
 ## 🔮 Future Improvements
 
-* Search functionality
-* Employee filtering
-* Employee sorting
-* Dark mode
-* Backend integration
-* Database support
-* Authentication system
-* Employee CRUD operations
+- Search functionality
+- Employee filtering
+- Employee sorting
+- Dark mode
+- Backend integration
+- Database support
+- Authentication system
+- Employee CRUD operations
 
 ## 🤝 Contributing
 
@@ -212,4 +211,5 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ If you like this project, consider giving it a star on GitHub.
->>>>>>> 844936ca55c9137229acd5353f727a189afb4d2a
+
+> > > > > > > 844936ca55c9137229acd5353f727a189afb4d2a
