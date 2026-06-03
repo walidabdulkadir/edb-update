@@ -200,16 +200,11 @@ Contributions are welcome.
 
 **Walid Abdulkadir**
 
-Software Engineering Student | Frontend Developer
+Computer Science Student | Frontend Developer
 
 GitHub: https://github.com/walidabdulkadir
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ⭐ If you like this project, consider giving it a star on GitHub.
 
-> > > > > > > 844936ca55c9137229acd5353f727a189afb4d2a
